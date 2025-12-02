@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Note-app
-=======
-# # # Note-App
+# Note-App
 # Members:
 * Dejay Artus
 * Dharel Delfino

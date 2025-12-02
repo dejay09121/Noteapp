@@ -43,5 +43,3 @@ npm expo start
 * Expo Go on a physical device
 
 
->>>>>>> 8484d693c199e663ca0fcec32683220ff03f2be3
-

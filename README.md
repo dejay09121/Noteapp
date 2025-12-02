@@ -2,7 +2,7 @@
 # Members:
 * Dejay Artus
 * Dharel Delfino
-* Mark Jose Amato
+* Mark Jose Rey Amato
 * Allan Christopher Ronquillo
 * Justin Jules Frasco
 

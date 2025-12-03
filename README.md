@@ -5,7 +5,8 @@
 * Mark Jose Rey Amato
 * Allan Christopher Ronquillo
 * Justin Jules Frasco
-
+* Althea Cimafranca
+* Charles Rodriguez
 
 
 # Description
